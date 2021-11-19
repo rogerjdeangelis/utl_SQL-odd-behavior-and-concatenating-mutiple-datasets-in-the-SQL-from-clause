@@ -1,6 +1,9 @@
 # utl_SQL-odd-behavior-and-concatenating-mutiple-datasets-in-the-SQL-from-clause
 SQL odd behavior and concatenating mutiple datasets in the SQL from clause
 
+    THIS IS NOT ODD BEHAVIOR THE SECOND DATA SET IS NOT A DATASET BUT AN UNUSED ALIAS. I ALWAYS USE AN "AS" AND FORGOT ABOUT THIS SYNTAX.
+    THANKS TO TIM BERRYHILL FOR POINTING THIS OUT.
+
     %let pgm=utl-SQL-odd-behavior-and-concatenating-multiple-datasets-in-the-SQL-from-clause;
 
     SQL odd behavior and concatenating multiple datasets in the SQL from clause
